@@ -6,10 +6,13 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@austinfrankel1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/austinfrankel1/)
-[![X](https://img.shields.io/badge/X-@Austin__Frankel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Austin__Frankel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Austin%20Frankel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-frankel/)
-[![GitHub](https://img.shields.io/badge/GitHub-AustinFrankel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AustinFrankel)
+<a href="https://www.instagram.com/austinfrankel1/"><img height="32" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" /></a>
+&nbsp;&nbsp;
+<a href="https://x.com/Austin__Frankel"><img height="32" src="https://cdn.simpleicons.org/x/000000" alt="X" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/austin-frankel/"><img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="tel:+19143367145">📞 914-336-7145</a>
 
 </div>
 
