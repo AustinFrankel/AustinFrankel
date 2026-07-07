@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://www.instagram.com/austinfrankel1/"><img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" /></a>
+<a href="https://www.instagram.com/austinfrankel1/"><img height="34" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" /></a>
 &nbsp;&nbsp;
 <a href="https://x.com/Austin__Frankel"><img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" /></a>
 &nbsp;&nbsp;
