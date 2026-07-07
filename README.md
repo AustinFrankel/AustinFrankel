@@ -6,11 +6,11 @@
 
 <br>
 
-<a href="https://www.instagram.com/austinfrankel1/"><img height="32" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" /></a>
+<a href="https://www.instagram.com/austinfrankel1/"><img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" /></a>
 &nbsp;&nbsp;
-<a href="https://x.com/Austin__Frankel"><img height="32" src="https://cdn.simpleicons.org/x/000000" alt="X" /></a>
+<a href="https://x.com/Austin__Frankel"><img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/austin-frankel/"><img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/austin-frankel/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="tel:+19143367145">📞 914-336-7145</a>
 
