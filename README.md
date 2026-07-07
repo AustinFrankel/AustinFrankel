@@ -7,6 +7,7 @@
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@austinfrankel1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/austinfrankel1/)
+[![X](https://img.shields.io/badge/X-@Austin__Frankel-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Austin__Frankel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Austin%20Frankel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austin-frankel/)
 [![GitHub](https://img.shields.io/badge/GitHub-AustinFrankel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AustinFrankel)
 
@@ -21,7 +22,7 @@
 ### 🦬 about
 
 Bucknell University  
-Founder of **Study Share** and **Seat Maker**  
+Founder of **Study Share**, **Seat Maker**, and **Time Capsule**  
 Building simple apps and student tools
 
 </td>
@@ -43,11 +44,18 @@ Building simple apps and student tools
 
 📚 **Study Share**  
 AI test prep for SAT, ACT, and PSAT students  
-https://www.studyshare.app
+Website: https://www.studyshare.app  
+[📱 Download on iPhone](https://apps.apple.com/us/app/digital-sat-prep-study-share/id6770344832)
 
 🪑 **Seat Maker**  
 Seating charts for weddings and events  
-https://seatmakerapp.com
+Website: https://seatmakerapp.com  
+[📱 Download on iPhone](https://apps.apple.com/us/app/seat-maker/id6748284141)
+
+🔐 **Time Capsule Memory Vault**  
+Private memory vault for photos, videos, notes, and files  
+Website: https://gettimecapsule.com/  
+[📱 Download on iPhone](https://apps.apple.com/us/app/time-capsule-memory-vault/id6759179137)
 
 </td>
 <td width="50%" valign="top">
