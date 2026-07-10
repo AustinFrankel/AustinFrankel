@@ -79,7 +79,7 @@ https://sites.google.com/view/codelabprogram/
 
 <div align="center">
 
-<a href="https://ghcommits.com"><img src="https://ghcommits.com/api/badge/AustinFrankel.svg" alt="GitHub Commits Badge for AustinFrankel" /></a>
+<a href="https://ghcommits.com"><img src="https://ghcommits.com/api/badge/austinfrankel.svg" alt="GitHub Commits Badge" /></a>
 
 <br>
 
