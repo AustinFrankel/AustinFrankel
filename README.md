@@ -79,6 +79,10 @@ https://sites.google.com/view/codelabprogram/
 
 <div align="center">
 
+<a href="https://ghcommits.com"><img src="https://ghcommits.com/api/badge/AustinFrankel.svg" alt="GitHub Commits Badge for AustinFrankel" /></a>
+
+<br>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AustinFrankel&theme=react-dark&hide_border=true&radius=18&area=true&custom_title=Austin%27s%20GitHub%20Activity" alt="GitHub activity graph" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:F68B1F,50:0A84FF,100:002F6C" alt="footer" />
